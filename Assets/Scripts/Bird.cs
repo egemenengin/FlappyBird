@@ -1,4 +1,7 @@
-﻿using System;
+//Egemen Engin
+//https://github.com/egemenengin
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
