@@ -1,4 +1,7 @@
-﻿using System.Collections;
+//Egemen Engin
+//https://github.com/egemenengin
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
